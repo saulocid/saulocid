@@ -8,7 +8,7 @@ Bienvenido a mi repositorio Github en donde voy a mostrarte información sobre m
 
 Antes que nada agradecerte por ingresar a mis trabajos para verificar, usar y/o compartir mis programas para mejorar tu código, ampliar la comunidad y/o por reclutamiento.
 
-![Profile Image](https://github.com/saulocid/saulocid/blob/main/Perfil.jpg style="width=256px")
+![Profile Image](https://github.com/saulocid/saulocid/blob/main/Perfil.jpg style="width:256px")
 
 Soy recientemente egresado de la carrera de programación Java Fullstack WEB sabiendo manejar:
 * Java POO ![java](https://github.com/saulocid/saulocid/blob/main/java128.png){width=64px}
