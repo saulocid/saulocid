@@ -13,7 +13,9 @@ Antes que nada agradecerte por ingresar a mis trabajos para verificar, usar y/o 
 </picture>
 
 Soy recientemente egresado de la carrera de programación Java Fullstack WEB sabiendo manejar:
-* Java POO <picture><img alt="java" src="(https://github.com/saulocid/saulocid/blob/main/java128.png" width="32px"></picture>
+* Java POO <picture>
+<img alt="java" src="https://github.com/saulocid/saulocid/blob/main/java128.png" width="32px">
+</picture>
 * React ![react](https://github.com/saulocid/saulocid/blob/main/react128.png)
 * Spring Boot Security ![spring](https://github.com/saulocid/saulocid/blob/main/spring128.png)
 * MySql ![mysql](https://github.com/saulocid/saulocid/blob/main/mysql128.png)
