@@ -17,7 +17,7 @@ Soy recientemente egresado de la carrera de programación Java Fullstack WEB sab
 * React <picture><img alt="react" src="https://github.com/saulocid/saulocid/blob/main/react128.png" width="32px"></picture>
 * Spring Boot Security <picture><img alt="spring" src="https://github.com/saulocid/saulocid/blob/main/spring128.png" width="32px"></picture>
 * MySql <picture><img alt="mysql" src="https://github.com/saulocid/saulocid/blob/main/mysql128.png" width="32px"></picture>
-Entre otros lenguajes de programación y marcado.
+* Entre otros lenguajes de programación y marcado.
 
 La carrera la complete en EGG Live <picture><img alt="egglogo" src="https://github.com/saulocid/saulocid/blob/main/EggLogo.png" width="32px"></picture> cursando más de 400 horas de clases remotas y otras 100 se trabajo arduo personal y de equipo en conferencias por Discord
 ---
@@ -78,5 +78,3 @@ Ellos son
 Muchas gracias por pasarte por mi espacio en Github y si quieres saber más de mi puedes ingresar a [Mi Linkedin](https://www.linkedin.com/in/saulociddev/) y/o donar en mi [Paypal](http://paypal.me/saulocid) en dólares
 
 [![linkedin](https://github.com/saulocid/saulocid/blob/main/LinkedinProfile.jpg)](https://www.linkedin.com/in/saulociddev/)
-
-<a href="https://www.linkedin.com/in/saulociddev/" target="_blank" rel="noopener"><picture><img alt="linkedin" src="https://github.com/saulocid/saulocid/blob/main/LinkedinProfile.jpg" ></picture></a>
