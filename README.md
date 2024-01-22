@@ -8,7 +8,11 @@ Bienvenido a mi repositorio Github en donde voy a mostrarte información sobre m
 
 Antes que nada agradecerte por ingresar a mis trabajos para verificar, usar y/o compartir mis programas para mejorar tu código, ampliar la comunidad y/o por reclutamiento.
 
-[![Profile Image](https://github.com/saulocid/saulocid/blob/main/Perfil.jpg){:width="256px"}]()
+<picture>
+<img alt="Profile Image" src="https://github.com/saulocid/saulocid/blob/main/Perfil.jpg" style="width:256px">
+</picture>
+
+[![Profile Image](https://github.com/saulocid/saulocid/blob/main/Perfil.jpg)]()
 
 Soy recientemente egresado de la carrera de programación Java Fullstack WEB sabiendo manejar:
 * Java POO ![java](https://github.com/saulocid/saulocid/blob/main/java128.png)
@@ -36,7 +40,7 @@ Esta url reada en React consume una API de la nasa que puedes encontrar [en este
 El estilo está importado de [simple css](https://simplecss.org/) que tiene una agradable vista.
 Algo importante destacar y es que la web está en inglés.
 
-[![daily astronomy picture](https://github.com/saulocid/saulocid/blob/main/DailyAstronomyPicture.jpg){:target="_blank"}](https://dailyastronomypicture.github.io)
+[![daily astronomy picture](https://github.com/saulocid/saulocid/blob/main/DailyAstronomyPicture.jpg)](https://dailyastronomypicture.github.io)
 
 ## Phangery Oficial
 
