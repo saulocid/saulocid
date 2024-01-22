@@ -79,4 +79,4 @@ Muchas gracias por pasarte por mi espacio en Github y si quieres saber más de m
 
 [![linkedin](https://github.com/saulocid/saulocid/blob/main/LinkedinProfile.jpg)](https://www.linkedin.com/in/saulociddev/)
 
-<a href="https://www.linkedin.com/in/saulociddev/" target="_blank"><picture><img alt="linkedin" src="https://github.com/saulocid/saulocid/blob/main/LinkedinProfile.jpg" ></picture></a>
+<a href="https://www.linkedin.com/in/saulociddev/" target="_blank" rel="noopener"><picture><img alt="linkedin" src="https://github.com/saulocid/saulocid/blob/main/LinkedinProfile.jpg" ></picture></a>
