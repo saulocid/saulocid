@@ -9,7 +9,7 @@ Bienvenido a mi repositorio Github en donde voy a mostrarte información sobre m
 Antes que nada agradecerte por ingresar a mis trabajos para verificar, usar y/o compartir mis programas para mejorar tu código, ampliar la comunidad y/o por reclutamiento.
 
 <picture>
-<img alt="Profile Image" src="https://github.com/saulocid/saulocid/blob/main/Perfil.jpg" style="width:256px">
+<img alt="Profile Image" src="Perfil.jpg" style="width:256px" target="_blank">
 </picture>
 
 [![Profile Image](https://github.com/saulocid/saulocid/blob/main/Perfil.jpg)]()
