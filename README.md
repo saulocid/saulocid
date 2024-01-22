@@ -12,10 +12,8 @@ Antes que nada agradecerte por ingresar a mis trabajos para verificar, usar y/o 
 <img alt="Profile Image" src="https://github.com/saulocid/saulocid/blob/main/Perfil.jpg" width="256px">
 </picture>
 
-[![Profile Image](https://github.com/saulocid/saulocid/blob/main/Perfil.jpg)]()
-
 Soy recientemente egresado de la carrera de programación Java Fullstack WEB sabiendo manejar:
-* Java POO ![java](https://github.com/saulocid/saulocid/blob/main/java128.png)
+* Java POO <picture><img alt="java" src="(https://github.com/saulocid/saulocid/blob/main/java128.png" width="32px"></picture>
 * React ![react](https://github.com/saulocid/saulocid/blob/main/react128.png)
 * Spring Boot Security ![spring](https://github.com/saulocid/saulocid/blob/main/spring128.png)
 * MySql ![mysql](https://github.com/saulocid/saulocid/blob/main/mysql128.png)
