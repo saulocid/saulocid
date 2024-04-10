@@ -2,6 +2,7 @@
 # HOLA VISITANTE
 
 Bienvenido a mi repositorio Github en donde voy a mostrarte información sobre mí y mis proyectos.
+Aquí tienes mi [currículum vitae](https://drive.google.com/file/d/1UzJaOVjNTf6zWNXX_4aWzkUPa1am9ukk/view?usp=sharing)
 
 ---
 
