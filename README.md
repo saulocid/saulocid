@@ -76,6 +76,7 @@ Ellos son
 * [Blog de Noticias](https://github.com/saulocid/NoticiAPP-blog-de-noticias) con Spring Boot y base de datos
 * [Fullstack Project](https://github.com/saulocid/Proyecto-API-SpringRestful-React) empleando Spring Boot y Spring API restful
 * [Global News React](https://github.com/saulocid/global-news-react) con React consumiendo una API de [NewsAPI](https://newsapi.org/)
+* [EcoBite](https://github.com/No-Country/c16-47-n-java) MVC de triple capa con Springboot Security JWT y React Vite. Simulación en [No Country!](https://github.com/No-Country)
 
 Entre otros repositorios de práctica y de la carrera
 
